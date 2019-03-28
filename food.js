@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2017-09-27.
- */
+
 //自调用函数----食物的
 (function () {
     var elements = [];//用来保存每个小方块食物的
